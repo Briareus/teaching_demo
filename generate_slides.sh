@@ -1,0 +1,1 @@
+jupyter nbconvert --to slides python_array_demo.ipynb --post serve
